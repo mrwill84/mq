@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/drone/mq/logger"
+	"github.com/mrwill84/mq/logger"
 )
 
 const (

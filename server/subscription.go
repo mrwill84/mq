@@ -3,7 +3,7 @@ package server
 import (
 	"sync"
 
-	"github.com/drone/mq/stomp/selector"
+	"github.com/mrwill84/mq/stomp/selector"
 )
 
 // subscription represents a session subscription to a

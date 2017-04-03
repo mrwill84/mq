@@ -1,6 +1,6 @@
 package selector
 
-import "github.com/drone/mq/stomp/selector/parse"
+import "github.com/mrwill84/mq/stomp/selector/parse"
 
 // Selector reprents a parsed SQL selector statement.
 type Selector struct {

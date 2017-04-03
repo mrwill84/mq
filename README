@@ -6,8 +6,8 @@ Documentation:
 
 Installation:
 
-     docker run -p 9000:9000 drone/mq
+     docker run -p 9000:9000 mrwill84/mq
 
 Developer Channel:
 
-     https://gitter.im/drone/mq
+     https://gitter.im/mrwill84/mq

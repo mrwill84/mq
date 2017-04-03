@@ -5,8 +5,8 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/drone/mq/logger"
-	"github.com/drone/mq/stomp"
+	"github.com/mrwill84/mq/logger"
+	"github.com/mrwill84/mq/stomp"
 
 	"golang.org/x/net/websocket"
 )

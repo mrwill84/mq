@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/drone/mq/stomp"
+	"github.com/mrwill84/mq/stomp"
 
 	"github.com/dchest/uniuri"
 	"github.com/urfave/cli"

@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/drone/mq/stomp"
+	"github.com/mrwill84/mq/stomp"
 )
 
 // ErrNotAuthorized is returned when the peer connection is not

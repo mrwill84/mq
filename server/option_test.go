@@ -3,7 +3,7 @@ package server
 import (
 	"testing"
 
-	"github.com/drone/mq/stomp"
+	"github.com/mrwill84/mq/stomp"
 )
 
 func TestOptions(t *testing.T) {

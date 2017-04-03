@@ -3,7 +3,7 @@
 PLEASE READ BEFORE DELETING
 
 Please direct all questions to our developer channel:
-https://gitter.im/drone/mq
+https://gitter.im/mrwill84/mq
 
 If you are opening an issue please provide detailed steps to reproduce.
 Ideally this is in the form of a simple Go program or shell script that

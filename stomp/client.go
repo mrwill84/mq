@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/drone/mq/logger"
-	"github.com/drone/mq/stomp/dialer"
+	"github.com/mrwill84/mq/logger"
+	"github.com/mrwill84/mq/stomp/dialer"
 )
 
 // Client defines a client connection to a STOMP server.

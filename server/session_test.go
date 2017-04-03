@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/drone/mq/stomp"
+	"github.com/mrwill84/mq/stomp"
 )
 
 func Test_session_subscribe(t *testing.T) {

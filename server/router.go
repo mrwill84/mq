@@ -5,8 +5,8 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/drone/mq/logger"
-	"github.com/drone/mq/stomp"
+	"github.com/mrwill84/mq/logger"
+	"github.com/mrwill84/mq/stomp"
 )
 
 var (
